@@ -1,4 +1,4 @@
-# Chickasaw Nation CMAC GitHub
+# CMAC GitHub
 > Houses code for team's projects
 
 ## Overview of Team
